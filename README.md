@@ -1,5 +1,5 @@
 # RSNA-Intracranial-Aneurysm-Detection
-_Kaggle competition_
+[https://www.kaggle.com/competitions/rsna-intracranial-aneurysm-detection](_Kaggle competition_)
 
 ## Overview
 
