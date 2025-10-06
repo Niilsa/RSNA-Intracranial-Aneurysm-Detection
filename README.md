@@ -1,7 +1,7 @@
 # RSNA-Intracranial-Aneurysm-Detection
-Kaggle competition
+_Kaggle competition_
 
-Overview
+## Overview
 
 Accurate and timely diagnosis is critical in healthcare, especially for potentially life-threatening medical conditions like brain aneurysms. Brain aneurysms (or intracranial aneurysms) are focal dilations in the arteries of the brain that may not show symptoms initially but can be deadly if not diagnosed accurately and treated appropriately.
 
